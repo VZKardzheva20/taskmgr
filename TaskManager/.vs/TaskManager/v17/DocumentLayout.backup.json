@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qwiie\\Desktop\\2425-12-os-managing-thread-lifetime-template\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF17CB2-C366-45D6-B410-2A8EA9862EF7}|WpfApp1\\WpfApp1.csproj|c:\\users\\qwiie\\desktop\\2425-12-os-managing-thread-lifetime-template\\taskmanager\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BBF17CB2-C366-45D6-B410-2A8EA9862EF7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF17CB2-C366-45D6-B410-2A8EA9862EF7}|WpfApp1\\WpfApp1.csproj|c:\\users\\qwiie\\desktop\\2425-12-os-managing-thread-lifetime-template\\taskmanager\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF17CB2-C366-45D6-B410-2A8EA9862EF7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF17CB2-C366-45D6-B410-2A8EA9862EF7}|WpfApp1\\WpfApp1.csproj|c:\\users\\qwiie\\desktop\\2425-12-os-managing-thread-lifetime-template\\taskmanager\\wpfapp1\\taskinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF17CB2-C366-45D6-B410-2A8EA9862EF7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\taskinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF17CB2-C366-45D6-B410-2A8EA9862EF7}|WpfApp1\\WpfApp1.csproj|c:\\users\\qwiie\\desktop\\2425-12-os-managing-thread-lifetime-template\\taskmanager\\wpfapp1\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF17CB2-C366-45D6-B410-2A8EA9862EF7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\qwiie\\Desktop\\2425-12-os-managing-thread-lifetime-template\\TaskManager\\WpfApp1\\TaskManager.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\qwiie\\Desktop\\2425-12-os-managing-thread-lifetime-template\\TaskManager\\WpfApp1\\TaskManager.cs",
+              "RelativeToolTip": "WpfApp1\\TaskManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:57:13.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskInfo.cs",
+              "DocumentMoniker": "C:\\Users\\qwiie\\Desktop\\2425-12-os-managing-thread-lifetime-template\\TaskManager\\WpfApp1\\TaskInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\TaskInfo.cs",
+              "ToolTip": "C:\\Users\\qwiie\\Desktop\\2425-12-os-managing-thread-lifetime-template\\TaskManager\\WpfApp1\\TaskInfo.cs",
+              "RelativeToolTip": "WpfApp1\\TaskInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:54:57.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\qwiie\\Desktop\\2425-12-os-managing-thread-lifetime-template\\TaskManager\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\qwiie\\Desktop\\2425-12-os-managing-thread-lifetime-template\\TaskManager\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-01T07:52:29.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwiie\\Desktop\\2425-12-os-managing-thread-lifetime-template\\TaskManager\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\qwiie\\Desktop\\2425-12-os-managing-thread-lifetime-template\\TaskManager\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:52:28.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
